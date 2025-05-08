@@ -1,0 +1,21 @@
+    .todo-item:hover .delete-btn {
+      display: block;
+    }
+    .completed-task {
+      text-decoration: line-through;
+      color: #9CA3AF;
+    }
+    .task-enter {
+      animation: fadeIn 0.5s ease-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .task-exit {
+      animation: fadeOut 0.3s ease-in forwards;
+    }
+    @keyframes fadeOut {
+      from { opacity: 1; transform: translateY(0); }
+      to { opacity: 0; transform: translateY(-10px); }
+    }
