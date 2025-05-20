@@ -1,6 +1,6 @@
 # Task Master - Modern To-Do Application
 
-See it online at [master-task.replit.app/](https://master-task.replit.app/)
+See it online at [https://clementabcd.github.io/Task-Master/](https://clementabcd.github.io/Task-Master/)
 
 ## Overview
 
