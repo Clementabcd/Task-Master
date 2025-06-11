@@ -6,7 +6,7 @@ See it online at [https://clementabcd.github.io/Task-Master/](https://clementabc
 
 Task Master is a sleek, modern web application built with HTML, JavaScript, and TailwindCSS that helps users organize their daily tasks. With an intuitive interface and smooth animations, it offers a pleasant user experience while providing essential task management functionality.
 
-![Task Master Application](placeholder-image)
+![Task Master Application](app-screenshot.jpeg)
 
 ## Features
 
